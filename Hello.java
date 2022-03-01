@@ -4,6 +4,7 @@ public class Hello
 	{
 		System.out.println("Hello!!");
 		int a=10;
+		System.out.println(" value of a"+a);
 
 	}
 	
