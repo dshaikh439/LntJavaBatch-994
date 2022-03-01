@@ -7,6 +7,8 @@ public class Hello
 		System.out.println(" value of a"+a);
 		
 		System.out.println(" make a change in file");
+		
+		System.out.println("another one added data");
 
 	}
 	
